@@ -1,7 +1,15 @@
 # Futarchy-DeFi-Protocol
 Futarchy-powered DeFi governance: PYUSD payments, Pyth pull oracles, and a TEE-secured private order book on Hedera.
 
+Currently live on!: 
+- [FutarFi landing page](https://www.futarfi.com)
+- [Api docs](https://api.futarfi.com)
+
+---
+
 Developers: [Arnau Briet](@bri3t) & [Pau Gallego](@PauGallego)
+
+Mentor: [Alex Arteaga](@alex-alra-arteaga)
 
 ---
 
